@@ -12,7 +12,7 @@ Fine-tuned UBC-NLP/MARBERTv2 as a token classifier that predicts the punctuation
 
 ## Result
 
-0.640 macro-F1 on the private leaderboard (the official baseline was about 0.36).
+0.640 macro-F1 on the private leaderboard.
 
 ## Setup
 
